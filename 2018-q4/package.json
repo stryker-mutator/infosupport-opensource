@@ -1,0 +1,14 @@
+{
+  "name": "stryker2018-q4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "kc-serve --theme black --highlight darkula -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@infosupport/kc-serve": "^2.1.3"
+  }
+}
