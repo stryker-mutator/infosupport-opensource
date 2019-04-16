@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@infosupport/kc-serve": "^2.1.3"
+    "@infosupport/kc-serve": "^2.1.6"
   }
 }
