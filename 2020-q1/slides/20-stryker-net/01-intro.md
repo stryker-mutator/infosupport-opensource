@@ -1,2 +1,1 @@
 # Stryker.NET
-
