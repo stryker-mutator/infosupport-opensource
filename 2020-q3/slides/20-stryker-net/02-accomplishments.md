@@ -1,6 +1,9 @@
 ## Accomplishments
-- Improved --diff feature
+- Improved --diff feature for pull request builds
+  - Various bugfixes (actually works now 🤩)
+  - Test changed detection
+  - Skip files for change detection
 - Improved clear-text reporter (table view and tree view)
 - Support for .net5
 - Mutation Levels
-- Redisign mutation logic (less & cleaner code)
+- Redesign mutation logic (less & cleaner code)
