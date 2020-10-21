@@ -12,3 +12,4 @@ Stryker 4 release! Mutation switching 👽🔀
 [see blog](https://stryker-mutator.io/blog/2020-10-07/announcing-stryker-4-mutation-switching)
 
 <!-- .element target="__blank"  -->
+
