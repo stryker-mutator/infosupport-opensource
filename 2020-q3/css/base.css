@@ -5,3 +5,7 @@ ul.no-list {
 .no-list li {
     list-style-type: none;
 }
+
+.img-small {
+    max-width: 100px;
+}
