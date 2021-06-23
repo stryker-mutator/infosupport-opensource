@@ -1,5 +1,5 @@
 # Cry for help
 
-A lot of feature request
-- We don't have the time to work on
+A lot of feature requests
+- We don't get around to working on most of them
 - Any help welcome
