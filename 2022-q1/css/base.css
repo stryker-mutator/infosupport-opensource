@@ -1,7 +1,23 @@
 ul.no-list {
-    margin: 0;
+  margin: 0;
 }
 
 .no-list li {
-    list-style-type: none;
+  list-style-type: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+}
+
+.sm {
+  font-size: 0.4em;
+}
+
+.md {
+  font-size: 0.5em;
 }
