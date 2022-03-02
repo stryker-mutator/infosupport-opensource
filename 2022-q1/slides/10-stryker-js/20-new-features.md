@@ -8,9 +8,11 @@ See [blog article](https://github.com/stryker-mutator/stryker-mutator.github.io/
 - ⏩ Hot reload
 - 🗿 `--ignoreStatic`
 
+<!-- .element class="no-list" -->
+
 ---
 
-#### Hot reload
+#### ⏩ Hot reload
 
 <div class="flex">
 <div class="col sm">
