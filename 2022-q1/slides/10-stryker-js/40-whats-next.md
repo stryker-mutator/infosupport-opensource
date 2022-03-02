@@ -9,7 +9,7 @@
 #### Finish v6.0
 
 - Month-long Beta
-- Release planned for beginning op April.
+- Release planned for beginning of April.
 
 ---
 
