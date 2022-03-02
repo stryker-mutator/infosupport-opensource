@@ -15,4 +15,5 @@
 
 #### Grouping in checker API
 
-
+- 🚀 Increase performance
+- 📅 Implement in TypeScript Checker
