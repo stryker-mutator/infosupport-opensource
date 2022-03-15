@@ -18,11 +18,12 @@ Nico trapt de vergadering af.
 ### Maven
 - Niet alle tijd kon opgemaakt worden
 - Nieuw thema: "Maven 4"
-    - Mensen die de nightly build niet aandurven zijn 'watjes'
+    - Er is koudwatervrees voor Maven-gebruikers om de snapshots van Maven 4 te gebruiken
+    - Daarom willen we helpen om een alpha release van Maven 4 dichterbij te brengen
     - Kleine (maar breaking) changes doorgevoerd.
-- 2 maven talks:
-    - Making Maven Mearvelous
-    - Devox Frankrijk
+- 2 Maven talks geaccepteerd:
+    - Making Maven Marvellous - met Giovanni - op Devnexus
+    - What's Cooking in Maven - op Devoxx Frankrijk
 - Mooie quote: 
   > You have a fantastic company in that regard. Most companies are parasites.
 
@@ -80,7 +81,7 @@ Nico is bezig met om de rol "Open source Maintainer" toe te voegen in het functi
 
 ## Rondvraag
 
-- Maarten: ISKA 23 maart, Geovanni en Maarten geven de sessie "Make Maven Marvelous"
+- Maarten: ISKA 23 maart, Geovanni en Maarten geven de sessie "Making Maven Marvellous" (tevens voorbereiding op Devnexus)
 - Hugo: Stryker blog publiceren op de IS website. Renske geeft aan dat er nog geen voortgang is. Nico pakt dit op met GetInteractive
 - Hugo: We moeten actiever zijn om de tweets te laten oppakken. Delen in de Slack channel!
 - Richard geeft aan dat Erwin & Mark misschien volgende 
