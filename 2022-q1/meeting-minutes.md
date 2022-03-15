@@ -84,5 +84,5 @@ Nico is bezig met om de rol "Open source Maintainer" toe te voegen in het functi
 - Maarten: ISKA 23 maart, Geovanni en Maarten geven de sessie "Making Maven Marvellous" (tevens voorbereiding op Devnexus)
 - Hugo: Stryker blog publiceren op de IS website. Renske geeft aan dat er nog geen voortgang is. Nico pakt dit op met GetInteractive
 - Hugo: We moeten actiever zijn om de tweets te laten oppakken. Delen in de Slack channel!
-- Richard geeft aan dat Erwin & Mark misschien volgende 
+- Richard geeft aan dat Erwin & Mark misschien volgende OS council meeting joinen
 - Renske geeft aan dat er Inspiratie Sessies nodig zijn voor arbeidsevent op 7 mei (zaterdag) E-sports event zit eraan gekoppeld. Een VR spel. 
