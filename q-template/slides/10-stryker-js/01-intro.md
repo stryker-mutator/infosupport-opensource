@@ -1,1 +1,1 @@
-## Stryker
+## Stryker-js
