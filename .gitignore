@@ -1,1 +1,4 @@
 node_modules
+
+# Ignore ":Zone.Identifier" files: https://cloudbytes.dev/snippets/wsl2-find-and-delete-zoneidentifier-files
+*.Identifier

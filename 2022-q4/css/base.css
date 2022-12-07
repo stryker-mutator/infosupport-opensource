@@ -1,0 +1,11 @@
+ul.no-list {
+    margin: 0;
+}
+
+.no-list li {
+    list-style-type: none;
+}
+
+.contributor {
+    color: #e7ad52;
+}
