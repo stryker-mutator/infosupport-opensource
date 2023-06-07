@@ -1,3 +1,8 @@
 # Bug fixes
 
-- `new("C8901F9D-4227-4BAC-903F-46E899D863F4")` now mutates to Guid.Empty instead of normal string mutation.
+- Load test files with preprocessor symbols
+- Improve reliablity of browser auto-open
+- More embedded resources fixes
+- Improve solution mode reliability and performance @dupdob
+- Test files can exist in multiple test projects @dupdob 
+- New empty string mutations break in negated expressions @psfinaki
