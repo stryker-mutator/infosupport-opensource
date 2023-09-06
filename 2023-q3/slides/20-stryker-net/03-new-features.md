@@ -1,6 +1,6 @@
 # New Features
 
-- HTML realtime progress bar
+- HTML report realtime progress bar
 - F# support
     - Basic flow is now supported (with 1 mutator)
     - Integration test on F# project
