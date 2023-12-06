@@ -5,3 +5,4 @@
 - Remove usings from injected sources to avoid type conflicts
 - Support case insensitive reference resolution
 - Recursive mutant removal
+- Revise and extend mutation orchestration to simplify the implementation of mutators
