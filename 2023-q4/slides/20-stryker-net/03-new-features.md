@@ -5,3 +5,4 @@
 - Validate mutual exclusivity of explicit --since and with-baseline options
 - real-time reporting: Queue mutants before client connects
 - baseline: Support large reports in azure file share
+- Add semantic model to mutators
