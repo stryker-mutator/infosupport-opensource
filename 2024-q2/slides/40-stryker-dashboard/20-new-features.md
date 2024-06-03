@@ -1,13 +1,19 @@
 ### New features 
 
-- Migration from `Ts.ED` to `NestJS`
-- New repository page almost done
-- Package maintance mostly complete
+1. New repository page (finally) merged.
+2. Dependency upgrades.
+
+<!-- .element class="fragment" -->
 
 ---
 
-<img src="../../img/dashboard-repo-page-1.png">
+<img src="../../img/repository-overview.png">
 
 ---
 
-<img src="../../img/dashboard-repo-page-2.png">
+<img src="../../img/repository-selector.png">
+
+---
+
+<img src="../../img/badge-selector.png">
+ 

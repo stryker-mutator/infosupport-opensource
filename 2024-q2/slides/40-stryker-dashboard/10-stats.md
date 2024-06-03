@@ -1,8 +1,7 @@
 ### Stats
 
-- 42,61 K blobs (+5,81 K)
-- 48,48 K entities (-2,83 M)
-  - Cleaned up old (unused) logs
-- 2178 unique projects (+106)
+- 47,77 K blobs (+5,16 K)
+- 53,75 K entities (+5,27 K)
+- 2284 unique projects (+106)
 
 <!-- .element class="fragment" -->
