@@ -1,6 +1,6 @@
 # Future 🔮
 
-- Split baseline and since features (continued)
-- Improve since feature by using test coverage to determine changed mutants since last change. (continued)
-- Real time reporting using stryker dashboard
-- 2 Graduation students are independently investigating methods for 'hot reload' starting February
+- Improved E2E testing
+- Take over maintenance of Dotnet Regex Parser package
+- Split 'core' package into individual components (abstractions + implementations)
+- MsTest Testrunner @Marc Zwerver

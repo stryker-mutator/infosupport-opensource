@@ -1,5 +1,7 @@
 # Bug fixes
 
-- Whitespace in report data no longer removed (#2821)
-- Adjust IgnoredMethod filter to more consistent results (#2689)
-- Make sure to select valid IAnalyzerResult from Buildalyzer (#2811)
+- VsTest improvements (#2845)
+- Support building with nullable enabled in injected mutant controle code (#2869)
+- Fix delegate mutations (#2898)
+- Non nullable fields are no longer swapped by NullCoalescingExpressionMutator (#2915)
+- Improved usage of structured logging (#2931)
