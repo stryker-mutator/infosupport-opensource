@@ -1,7 +1,5 @@
 # Bug fixes
 
-- VsTest improvements (#2845)
-- Support building with nullable enabled in injected mutant controle code (#2869)
-- Fix delegate mutations (#2898)
-- Non nullable fields are no longer swapped by NullCoalescingExpressionMutator (#2915)
-- Improved usage of structured logging (#2931)
+- conditional operator and lambda mutations can be ignored
+- Since: Retest all mutants covered by tests for which we cannot determine the filepath (#2753) 
+- Strengthen azure sas parsing (#2978)
