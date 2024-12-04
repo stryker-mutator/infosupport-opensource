@@ -1,4 +1,5 @@
 # Future 🔮
 
-- Improved E2E testing
 - MsTest Testrunner
+- Mutators (Default parameter, integer, etc)
+- Refresh baseline
