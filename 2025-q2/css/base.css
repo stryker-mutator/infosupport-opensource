@@ -1,7 +1,11 @@
 ul.no-list {
-    margin: 0;
+  margin: 0;
 }
 
 .no-list li {
-    list-style-type: none;
+  list-style-type: none;
+}
+
+.sm {
+  font-size: 1.8rem;
 }
