@@ -1,5 +1,5 @@
 # New Features
 
-- Mutate unsigned right-shift operator (#3200)
-- LINQ Append/Prepend mutation (#3199)
-- Support static using references for Math mutations (#3205)
+- Improve targetframework and msbuild-path options (#3262)
+- Filtering of implicit constructors (#3253)
+- Support projects using DelaySign (#3273)
