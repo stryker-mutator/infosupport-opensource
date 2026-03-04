@@ -5,3 +5,7 @@ ul.no-list {
 .no-list li {
     list-style-type: none;
 }
+
+.sm {
+    font-size: 1.8rem;
+}
