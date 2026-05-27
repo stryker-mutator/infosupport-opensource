@@ -1,4 +1,4 @@
 # 📊 Stats
 
-- 5.5M total downloads (+500k) 🚀
-- Average 7.8K daily downloads (+5.8k!) 📈
+- 6.3M total downloads (+800k) 🚀
+- Average 10.1K daily downloads (+2.3k) 📈
